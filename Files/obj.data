@@ -1,5 +1,5 @@
-classes = 1
+classes = 2
 train = data/train.txt
 valid = data/test.txt
 names = data/obj.names
-backup = /content/drive/MyDrive/yolov4/backup
+backup = /content/drive/MyDrive/YOLO/backup
